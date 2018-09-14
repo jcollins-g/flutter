@@ -128,7 +128,7 @@ linter:
     - prefer_final_locals
     - prefer_foreach
     # - prefer_function_declarations_over_variables # not yet tested
-    # - prefer_generic_function_type_aliases # not yet tested
+    - prefer_generic_function_type_aliases
     - prefer_initializing_formals
     # - prefer_interpolation_to_compose_strings # not yet tested
     - prefer_is_empty
@@ -152,7 +152,7 @@ linter:
     - unnecessary_const
     - unnecessary_getters_setters
     # - unnecessary_lambdas # has false positives: https://github.com/dart-lang/linter/issues/498
-    # - unnecessary_new # not yet tested
+    - unnecessary_new
     - unnecessary_null_aware_assignments
     - unnecessary_null_in_if_null_operators
     - unnecessary_overrides
