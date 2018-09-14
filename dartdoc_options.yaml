@@ -1,0 +1,8 @@
+dartdoc:
+  categories:
+    Basics:
+      markdown: "Basics.md"
+    "Assets, Images, and Icons":
+      markdown: "Assets.md"
+    Text:
+      markdown: "Text.md"

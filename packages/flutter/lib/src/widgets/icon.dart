@@ -27,6 +27,11 @@ import 'icon_theme_data.dart';
 ///  * [Icons], for the list of available icons for use with this class.
 ///  * [IconTheme], which provides ambient configuration for icons.
 ///  * [ImageIcon], for showing icons from [AssetImage]s or other [ImageProvider]s.
+///
+/// {@category Basics}
+/// {@category Assets, Images, and Icons}
+/// {@subCategory Information displays}
+/// {@image <image alt='' src='/images/catalog-widget-placeholder.png'>}
 class Icon extends StatelessWidget {
   /// Creates an icon.
   ///
